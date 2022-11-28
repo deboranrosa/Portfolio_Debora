@@ -1,0 +1,25 @@
+header {
+    display: flex;
+}
+
+.p-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1%;
+    margin-left: 6%;
+    margin-right: auto;
+}
+
+.p-title span {
+    color: #FFF;
+    font-size: 15px;
+}
+
+.p-title .container-subtitle {
+    background-color: #EB9DDA ;
+    border-radius: 5px;
+    display: flex;
+    width: 172px;
+}
+

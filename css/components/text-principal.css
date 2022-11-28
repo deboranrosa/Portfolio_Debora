@@ -1,0 +1,14 @@
+.text-principal {
+    color: #FFF;
+    font-size: 1.2em;
+    margin-top: 12%;
+    margin-left: 20%;
+}
+
+.text-principal span {
+    color: #EB9DDA;
+}
+
+.text-principal p {
+    font-size: 0.8em;
+}

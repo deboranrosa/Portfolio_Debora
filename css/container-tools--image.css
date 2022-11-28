@@ -1,0 +1,6 @@
+.container-tools--image {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}

@@ -1,0 +1,13 @@
+.textbox-datas-form {
+    background-color: rgba(110, 110, 184, 0.3);
+    border: 1px solid rgba(110, 110, 184, 0.5);
+    color: #FFF;
+    font-family: 'Inter', sans-serif; 
+    margin-top: 2%;  
+    margin-bottom: 1%;
+    padding: 2% 0 2% 2%;
+}
+
+.textbox-id_user {    
+    width: 60%;
+}

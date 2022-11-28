@@ -1,0 +1,25 @@
+.port-menu {
+    display: flex;
+    flex-direction: row-reverse;   
+}
+
+.port-menu nav ul {
+    display: inline-flex;
+    left: 40%;
+    position: absolute;
+    top: 2%;
+}
+
+.port-menu nav a{
+    display: inline-block;
+    color: #FFF;    
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 30px;  
+    padding-top: 5px;  
+    text-decoration: none;
+}
+
+.port-menu nav a:hover {
+
+}

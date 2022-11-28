@@ -1,0 +1,28 @@
+.title-skills {
+    color: #FFF;
+    font-size: 1.1em;
+    margin-left: 6%;
+    margin-top: 15%;
+    position: absolute;    
+}
+
+.title-skills span {
+    color: #EB9DDA;
+}
+
+.title-skills p {
+    margin-top: 1%;
+    font-size: 0.8em;
+}
+
+@media (min-width: 1326px ) {
+    .title-skills {
+        top: 60%;
+    }
+}
+
+@media (min-width: 1880px) {
+    .title-skills {
+        top: 50%;
+    }
+}

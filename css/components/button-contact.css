@@ -1,0 +1,13 @@
+#contact-button {
+    background-color: #1A242E;
+    border: 1px solid #EB9DDA;
+    border-radius:5px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.9em;
+    padding: 1.8em;
+}
+
+#contact-button:hover {
+    cursor: pointer;
+}

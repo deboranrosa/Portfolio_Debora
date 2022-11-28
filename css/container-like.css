@@ -1,0 +1,11 @@
+.container-like {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 6%;
+}
+
+.container-like h2 {
+    color: #FFF;
+    font-size: 2.2em;
+    margin-top: 2%;
+}

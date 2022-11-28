@@ -1,0 +1,22 @@
+.button-likes {
+    background-color: #1A242E;
+    border: 1px solid #EB9DDA;
+    border-radius:5px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.9em;
+    padding: 1.2em;
+    margin-bottom: 10%;
+}
+
+.button-likes:hover {
+    cursor: pointer;
+}
+
+#contact-button {
+    padding: 1.2em 1.6em;
+}
+
+#about-button {
+    padding: 1.2em;
+}

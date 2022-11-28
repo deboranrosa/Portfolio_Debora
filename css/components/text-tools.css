@@ -1,0 +1,28 @@
+.text-tools {
+    position: absolute;
+    
+}
+
+.text-tools h3 {
+    color: #EB9DDA;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+.text-tools p {
+    color: #FFF;
+    font-size: 0.8em;
+}
+
+
+@media (min-width: 1326px ) {
+    .text-tools {
+        left: 12%;
+    }
+}
+
+@media (min-width: 1880px) {
+    .text-tools {
+        left: 10%;
+    }
+}

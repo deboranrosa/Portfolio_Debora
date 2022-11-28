@@ -1,0 +1,27 @@
+.skills-image {
+    width: 30%;
+}
+
+.tooltip .tooltiptext {
+    background-color: rgba(110, 110, 184, 0.2);
+    border-radius: 6px;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    padding: 5px 0;
+    position: absolute;
+    text-align: center;
+    visibility: hidden;
+    z-index: 1;
+    width: 120px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+/* @media (min-width: 1880px) {
+    .skills-image {
+        width: 30%;
+    }
+    
+} */

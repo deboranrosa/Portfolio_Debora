@@ -1,0 +1,10 @@
+.container-projects {
+    margin-left: 6%;
+    margin-top: 3%;    
+}
+
+.container-projects p {
+    color: #FFF;
+    font-size: 2em;    
+    padding-bottom: 1%;
+}
